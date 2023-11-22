@@ -1,0 +1,5 @@
+struct ChatCompletionRequest {
+}
+
+struct ChatCompletionResponse {
+}
